@@ -1,6 +1,6 @@
 # e-Migrant
 
-You can view the live project at: [https://oliveiraigorm.github.io/cityhack](https://oliveiraigorm.github.io/cityhack)
+You can view the live project at: [https://oliveiraigorm.github.io/e-Migrant-Cityhack](https://oliveiraigorm.github.io/e-Migrant-Cityhack)
 
 ## About
 Project files developed during City Hack 2020 Hackathon
